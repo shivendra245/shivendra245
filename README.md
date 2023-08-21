@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivendra Pratap Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align = "right" alt = "coding" width = "400px" src = "https://cdn.dribbble.com/users/32897/screenshots/3564812/1.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivendra245&label=Profile%20views&color=0e75b6&style=flat" alt="shivendra245" /> </p>
 
