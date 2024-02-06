@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivendra245&label=Profile%20views&color=0e75b6&style=flat" alt="shivendra245" /> </p>
 
-- 🔭 I’m currently working on **Data Science Machine Learning**
+- 🔭 I’m currently working on **Front End Development**
 
-- 🌱 I’m currently learning **HTML5 || CSS3 || MERN || PHP || WEB DEVELOPMENT**
+- 🌱 I’m currently learning **HTML5 || CSS3 || WEB DEVELOPMENT || JAVA || DSA **
 
 - 💬 Ask me about **Front End Development**
 
